@@ -40,20 +40,28 @@ Ex: traits like physical strength or attractiveness in men and nurturing qualiti
 Evolution:
 Survival -> Genetic Mutation -> Development -> Response to Environmental Pressure
 1. Environment
-Males = Expected to be strong and handy; local men often do construction or heavy yard work.
-Females = Expected to be nurturing; local women are usually seen taking care of kids at home.
+
+    - Males = Expected to be strong and handy; local men often do construction or heavy yard work.
+  
+    - Females = Expected to be nurturing; local women are usually seen taking care of kids at home.
 
 2. Cultural Norms
-Males = Expected to be family providers; men are usually the ones with jobs.
-Females = Expected to manage the home; women are often seen cooking or cleaning.
+
+    - Males = Expected to be family providers; men are usually the ones with jobs.
+
+    - Females = Expected to manage the home; women are often seen cooking or cleaning.
 
 3. Social Relationships
-Males = Expected to lead; men in friend groups often take charge of planning events.
-Females = Expected to be emotional supporters; women are seen comforting friends during tough times.
+
+    - Males = Expected to lead; men in friend groups often take charge of planning events.
+
+    - Females = Expected to be emotional supporters; women are seen comforting friends during tough times.
 
 4. Media
-Males = Expected to be tough; movies show men as action heroes saving the day.
-Females = Expected to look pretty; TV shows portray women focusing on fashion and beauty.
+
+    - Males = Expected to be tough; movies show men as action heroes saving the day.
+
+    - Females = Expected to look pretty; TV shows portray women focusing on fashion and beauty.
 
 Gender Fluidity = gender is not fixed or binary but can be flexible, shifting across a spectrum (no stereotypes)
 -> opposite of gender rigidity
