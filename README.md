@@ -14,7 +14,7 @@ Members:
 All of the notes here are based on your inputs and added research for stronger arguments while reporting. Let's review our topics wisely po. Salamaaat! 💛
 
 ## Download
-PPT (full version) = download here
+PPT (full version) = [download here](https://github.com/elfinix/ssp-think-tac-toe-g5/releases/download/v1.0/Group5_GenSoc_EvolutionaryTheory.pptx)
 
 PDF (clean version {but fonts are thinned}) = [download here](https://github.com/elfinix/ssp-think-tac-toe-g5/blob/main/Group5_GenSoc_EvolutionaryTheory.pdf)
 
