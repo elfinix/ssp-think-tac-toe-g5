@@ -11,7 +11,7 @@ Members:
 - Mckyla Faith Valenzuela
 - Jeric De Guzman
 
-All of the notes here are based on your inputs and added research for stronger arguments while reporting. Let's review our topics wisely po. Salamaaat! 💛
+All of the notes here are based on your inputs, and research was added to strengthen the arguments while reporting. Let's review our topics wisely poooo. Salamaaat! 💛
 
 ## Download
 PPT (full version) = [download here](https://github.com/elfinix/ssp-think-tac-toe-g5/releases/download/v1.0/Group5_GenSoc_EvolutionaryTheory.pptx)
